@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+
+body{
+    background: linear-gradient(rgb(0, 0, 0), rgb(69, 69, 70));
+    margin: 20px;
+}
+
+.header{
+
+    
+    color: #52A0F4;
+    font-size: 135px;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.navbar{
+    
+    color: #52A0F4;
+    font-size: 25px;
+    font-family: 'Comic Neue', cursive;
+    text-align: end;
+}
+
+.section{
+
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+.servicio{
+    
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: initial;
+}
+
+.submit{
+    
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: initial;
+}
+
+.valor{
+    width: fit-content;
+
+    color: #ffffff;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: initial;
+}
+
+.footer{
+    color: #ffffff;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: end;
+}
